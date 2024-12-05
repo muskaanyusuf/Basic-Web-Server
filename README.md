@@ -1,4 +1,4 @@
-# 🖥️ Basic Web Server Project
+# 🖥️ Basic Web Server Developer Project
 Welcome to the **Basic Web Server** project! This repository contains a simple C-based implementation of a web server designed to handle HTTP requests and send back responses.
 
 ## 📄 Project Documentation
